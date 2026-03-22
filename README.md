@@ -13,13 +13,17 @@ This is a basic calculator program written in C that performs arithmetic operati
 
 ## Sample Output
 
+```
 Enter an operator (+, -, *, /): +
 Enter two numbers: 10 5
 Result = 15
+```
 
+```
 Enter an operator (+, -, *, /): *
 Enter two numbers: 4 3
 Result = 12
+```
 
 ## Purpose
 This project is part of my programming learning journey.
